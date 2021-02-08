@@ -1,3 +1,4 @@
+// marks 10%
 // Like the previous question use knex to write a query that:
 // selects columns `first_name`, `last_name`, `created_at`
 // from a table called `students`

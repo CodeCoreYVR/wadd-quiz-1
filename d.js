@@ -1,3 +1,4 @@
+// marks: 10%
 // install knexjs. 
 // initialize a knexfile, setup the development environment with pg as the client and exam_1 as the database. (the questions don't actually require a db connection but knex needs to know pg is the client so the queries are created correctly)
 // create export a knex client in ./db/client.js

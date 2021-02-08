@@ -1,3 +1,4 @@
+// marks 10%
 // use knex to write to write the following SQL query for this mock db:
 //
 // Tables:
